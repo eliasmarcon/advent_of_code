@@ -1,0 +1,7 @@
+bn RSHIFT 2 -> bo
+lf RSHIFT 1 -> ly
+fo RSHIFT 3 -> fq
+cj OR cp -> cq
+fo OR fz -> ga
+t OR s -> u
+lx -> a
