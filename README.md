@@ -5,13 +5,14 @@ Welcome to the Advent of Code code example repository! Here you'll find a collec
 
 # Directory Structure:
 
-2015/: Contains solutions for challenges from the year 2015.
-
-2016/: Contains solutions for challenges from the year 2016.
-
-...
-
-2022/: Contains solutions for challenges from the year 2022.
+- 2015/: Contains solutions for challenges from the year 2015.
+- 2016/: Contains solutions for challenges from the year 2016.
+- 2017/: Contains solutions for challenges from the year 2017.
+- 2018/: Contains solutions for challenges from the year 2018.
+- 2019/: Contains solutions for challenges from the year 2019.
+- 2020/: Contains solutions for challenges from the year 2020.
+- 2021/: Contains solutions for challenges from the year 2021.
+- 2022/: Contains solutions for challenges from the year 2022.
 
 Languages: The solutions provided are written exclusively in the Python programming language.
 
