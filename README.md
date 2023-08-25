@@ -1,4 +1,4 @@
-# Read Me: Advent of Code Code Examples (2015-2022)
+# Advent of Code Code Examples (2015-2022)
 
 Welcome to the Advent of Code code example repository! Here you'll find a collection of solutions for Advent of Code challenges from the years 2015 to 2022. Advent of Code is an annual programming challenge that takes place in December, with daily puzzle releases that need to be solved. This repository contains code examples in Python, demonstrating how these challenges were tackled over the years.
 
